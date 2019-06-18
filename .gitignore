@@ -1,0 +1,13 @@
+.DS_Store
+/*
+!/.gitignore
+!/versions.json
+!/me
+!/org
+!/README.md
+!versions-devel.json
+!update-json.js
+!update-latest.js
+!changed-files.js
+!update-git.bat
+!test.txt
