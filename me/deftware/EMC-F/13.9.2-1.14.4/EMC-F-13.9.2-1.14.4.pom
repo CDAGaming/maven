@@ -4,5 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.deftware</groupId>
   <artifactId>EMC-F</artifactId>
-  <version>13.9.2-1.14.4-pre2</version>
+  <version>13.9.2-1.14.4</version>
 </project>
