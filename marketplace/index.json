@@ -1,30 +1,32 @@
 {
-  "updated": "Sat Jul 20 2019 01:12:16 GMT+0200 (GMT+02:00)",
-  "EMC-Discord-RPC": {
-    "id": "EMC-Discord-RPC",
-    "name": "EMC-Discord-RPC",
-    "author": "Deftware",
-    "description": "Discord Rich Presence for Aristois",
-    "version": "1",
-    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
-    "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
-  },
-  "optifine": {
-    "id": "optifine",
-    "name": "optifine",
-    "author": "Deftware",
-    "description": "Installs OptiFine for Aristois 1.14+",
-    "version": "1",
-    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-    "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
-  },
-  "TheAltening": {
-    "id": "TheAltening",
-    "name": "TheAltening",
-    "author": "Deftware",
-    "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
-    "version": "3",
-    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
-    "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
-  }
+  "updated": "Sat Jul 20 2019 01:40:51 GMT+0200 (GMT+02:00)",
+  "mods": [
+    {
+      "id": "EMC-Discord-RPC",
+      "name": "EMC-Discord-RPC",
+      "author": "Deftware",
+      "description": "Discord Rich Presence for Aristois",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
+      "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
+    },
+    {
+      "id": "optifine",
+      "name": "optifine",
+      "author": "Deftware",
+      "description": "Installs OptiFine for Aristois 1.14+",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
+    },
+    {
+      "id": "TheAltening",
+      "name": "TheAltening",
+      "author": "Deftware",
+      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
+      "version": "3",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
+      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
+    }
+  ]
 }

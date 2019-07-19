@@ -11,12 +11,14 @@ const sha1 = path => new Promise((resolve, reject) => {
 
 async function run() {
     let json = {
-        updated: new Date().toString()
+        updated: new Date().toString(),
+        mods: []
     };
     for (let dir of fs.readdirSync("./plugins/")) {
-        json[dir] = JSON.parse(fs.readFileSync(`./plugins/${dir}/${dir}.json`));
-        json[dir].link = `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar`;
-        json[dir].sha1 = await sha1(`./plugins/${dir}/${dir}.jar`);
+        let plugin = JSON.parse(fs.readFileSync(`./plugins/${dir}/${dir}.json`));
+        plugin.link = `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar`;
+        plugin.sha1 = await sha1(`./plugins/${dir}/${dir}.jar`);
+        json.mods.push(plugin);
     }
     fs.writeFileSync("./index.json", JSON.stringify(json, null, 2));
 }
