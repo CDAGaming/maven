@@ -16,7 +16,7 @@ async function run() {
     for (let dir of fs.readdirSync("./plugins/")) {
         json[dir] = JSON.parse(fs.readFileSync(`./plugins/${dir}/${dir}.json`));
         json[dir].link = `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar`;
-        json[dir].sha1 = await sha1(`./plugins/${dir}/${dir}.json`);
+        json[dir].sha1 = await sha1(`./plugins/${dir}/${dir}.jar`);
     }
     fs.writeFileSync("./index.json", JSON.stringify(json, null, 2));
 }
