@@ -1,10 +1,12 @@
 {
+  "updated": "Sat Jul 20 2019 01:04:07 GMT+0200 (GMT+02:00)",
   "EMC-Discord-RPC": {
     "id": "EMC-Discord-RPC",
     "name": "EMC-Discord-RPC",
     "author": "Deftware",
     "description": "Discord Rich Presence for Aristois",
     "version": "1",
+    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
     "sha1": "218b6f1c3823bdd84cd4acd97f699a03bfda9054"
   },
   "optifine": {
@@ -13,6 +15,7 @@
     "author": "Deftware",
     "description": "Installs OptiFine for Aristois 1.14+",
     "version": "1",
+    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
     "sha1": "c3566cee27bb6eadfc879dddd71015a4d6cdd9a9"
   },
   "TheAltening": {
@@ -21,6 +24,7 @@
     "author": "Deftware",
     "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
     "version": "3",
+    "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
     "sha1": "8ee8dc87978240c277e2fd1b0488c5f23af9f407"
   }
 }
