@@ -1,5 +1,5 @@
 {
-  "updated": "Sat Jul 20 2019 22:23:34 GMT+0200 (Central European Summer Time)",
+  "updated": "Sun Jul 21 2019 00:33:07 GMT+0200 (GMT+02:00)",
   "mods": [
     {
       "id": "Baritone",
@@ -20,15 +20,6 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
-      "id": "TheAltening",
-      "name": "TheAltening",
-      "author": "Deftware",
-      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
-      "version": "3",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
-      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
-    },
-    {
       "id": "optifine",
       "name": "optifine",
       "author": "Deftware",
@@ -36,6 +27,15 @@
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
       "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
+    },
+    {
+      "id": "TheAltening",
+      "name": "TheAltening",
+      "author": "Deftware",
+      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
+      "version": "3",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
+      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
     }
   ]
 }
