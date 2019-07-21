@@ -1,5 +1,5 @@
 {
-  "updated": "Sun Jul 21 2019 00:33:07 GMT+0200 (GMT+02:00)",
+  "updated": "Sun Jul 21 2019 08:14:13 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -8,7 +8,7 @@
       "description": "Baritone installer and manager for 1.13+",
       "version": 1,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
-      "sha1": "e2c9c0c296f944a4ad7dd0af53792f261bf8c68f"
+      "sha1": "597a02d66dbd19fa8213b98029bad22b6a9904de"
     },
     {
       "id": "EMC-Discord-RPC",
@@ -20,15 +20,6 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
-      "id": "optifine",
-      "name": "optifine",
-      "author": "Deftware",
-      "description": "Installs OptiFine for Aristois 1.14+",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
-    },
-    {
       "id": "TheAltening",
       "name": "TheAltening",
       "author": "Deftware",
@@ -36,6 +27,15 @@
       "version": "3",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
       "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
+    },
+    {
+      "id": "optifine",
+      "name": "optifine",
+      "author": "Deftware",
+      "description": "Installs OptiFine for Aristois 1.14+",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
     }
   ]
 }
