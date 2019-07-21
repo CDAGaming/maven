@@ -1,14 +1,14 @@
 {
-  "updated": "Sun Jul 21 2019 08:24:37 GMT+0200 (Central European Summer Time)",
+  "updated": "Sun Jul 21 2019 09:00:01 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Baritone",
       "author": "Indrit",
-      "description": "Baritone installer and manager for 1.13+",
+      "description": "Baritone installer and version manager",
       "version": 1,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
-      "sha1": "459ab42a24bfbedf663d6fdf1f4e3629952b2edc"
+      "sha1": "fddf4871dc8cadf057fad969c842968ccaed5b8e"
     },
     {
       "id": "EMC-Discord-RPC",
