@@ -3,7 +3,7 @@
   "id": "Baritone",
   "name": "Baritone",
   "author": "Indrit",
-  "description": "Baritone installer and version manager",
+  "description": "Baritone is a addon \"Installer and version manager\" for Baritone\n The addon lets you automine, automatically get from A to B and much more!\n\nSupported versions are: \n 1.13.2",
   "version": 1
 
 }
