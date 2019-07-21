@@ -1,5 +1,5 @@
 {
-  "updated": "Sun Jul 21 2019 23:31:39 GMT+0200 (Central European Summer Time)",
+  "updated": "Mon Jul 22 2019 00:16:37 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -26,7 +26,7 @@
       "description": "GooglePlugin is a Google extension for Aristois Minecraft chat",
       "version": 2,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/GooglePlugin/GooglePlugin.jar",
-      "sha1": "4608810746771c340bf7d1fc4a8157f0058cf369"
+      "sha1": "01cee1d358cd4c54e477fc9023ff042d499cf35a"
     },
     {
       "id": "TheAltening",
