@@ -1,11 +1,11 @@
 {
-  "updated": "Mon Jul 22 2019 23:03:12 GMT+0200 (Central European Summer Time)",
+  "updated": "Mon Jul 22 2019 23:47:49 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Baritone",
       "author": "Indrit",
-      "description": "Baritone is a addon \"Installer and version manager\" for Baritone\n The addon lets you automine, automatically get from A to B and much more!\n\nSupported versions are: \n 1.13.2",
+      "description": "Baritone is a addon \"Installer and version manager\" for Baritone. The addon lets you automine, automatically get from A to B and much more! Supported versions are: 1.13.2",
       "version": 1,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
       "sha1": "269352eb1f9da451889d1a62b60a6875c9a330cf"
@@ -26,7 +26,7 @@
       "description": "GooglePlugin is a Google extension for Aristois Minecraft chat",
       "version": 2,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/GooglePlugin/GooglePlugin.jar",
-      "sha1": "3abca5f6d39cec5f522c33b17eafcad1a9bc03fe"
+      "sha1": "319a08656b40689acb0ad69bbe3907aff9401d4d"
     },
     {
       "id": "TheAltening",
