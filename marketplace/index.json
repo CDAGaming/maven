@@ -1,14 +1,14 @@
 {
-  "updated": "Sun Jul 21 2019 00:33:07 GMT+0200 (GMT+02:00)",
+  "updated": "Mon Jul 22 2019 23:03:12 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Baritone",
       "author": "Indrit",
-      "description": "Baritone installer and manager for 1.13+",
+      "description": "Baritone is a addon \"Installer and version manager\" for Baritone\n The addon lets you automine, automatically get from A to B and much more!\n\nSupported versions are: \n 1.13.2",
       "version": 1,
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
-      "sha1": "e2c9c0c296f944a4ad7dd0af53792f261bf8c68f"
+      "sha1": "269352eb1f9da451889d1a62b60a6875c9a330cf"
     },
     {
       "id": "EMC-Discord-RPC",
@@ -20,13 +20,13 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
-      "id": "optifine",
-      "name": "optifine",
-      "author": "Deftware",
-      "description": "Installs OptiFine for Aristois 1.14+",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
+      "id": "GooglePlugin",
+      "name": "GooglePlugin",
+      "author": "Indrit",
+      "description": "GooglePlugin is a Google extension for Aristois Minecraft chat",
+      "version": 2,
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/GooglePlugin/GooglePlugin.jar",
+      "sha1": "3abca5f6d39cec5f522c33b17eafcad1a9bc03fe"
     },
     {
       "id": "TheAltening",
@@ -36,6 +36,15 @@
       "version": "3",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
       "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
+    },
+    {
+      "id": "optifine",
+      "name": "optifine",
+      "author": "Deftware",
+      "description": "Installs OptiFine for Aristois 1.14+",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "23a4cef9fe397272e6a6f07c40a57de44c529525"
     }
   ]
 }
