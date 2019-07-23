@@ -1,14 +1,14 @@
 {
-  "updated": "Tue Jul 23 2019 00:25:05 GMT+0200 (Central European Summer Time)",
+  "updated": "Wed Jul 24 2019 00:12:02 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Baritone",
       "author": "Indrit",
       "description": "Baritone is a addon \"Installer and version manager\" for Baritone. The addon lets you automine, automatically get from A to B and much more! Supported versions are: 1.13.2",
-      "version": 1,
+      "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
-      "sha1": "269352eb1f9da451889d1a62b60a6875c9a330cf"
+      "sha1": "253f02e0dc14e7c48efdfe4001b57ed13dc697fd"
     },
     {
       "id": "EMC-Discord-RPC",
@@ -20,13 +20,13 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
-      "id": "GooglePlugin",
-      "name": "GooglePlugin",
+      "id": "Google",
+      "name": "Google",
       "author": "Indrit",
-      "description": "GooglePlugin is a Google extension for Aristois Minecraft chat",
-      "version": 2,
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/GooglePlugin/GooglePlugin.jar",
-      "sha1": "56b76e2aa51a8367d3089cb26c05f04e34d063bd"
+      "description": "GooglePlugin is a Google extension for Aristois Minecraft chat, it currently \"only\" implements Google chat translation",
+      "version": "2",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
+      "sha1": "113cf81c193019981db48cc9e09ec2780679b798"
     },
     {
       "id": "TheAltening",
