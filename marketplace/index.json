@@ -1,5 +1,5 @@
 {
-  "updated": "Wed Jul 24 2019 00:12:02 GMT+0200 (Central European Summer Time)",
+  "updated": "Wed Jul 24 2019 02:06:28 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -23,10 +23,10 @@
       "id": "Google",
       "name": "Google",
       "author": "Indrit",
-      "description": "GooglePlugin is a Google extension for Aristois Minecraft chat, it currently \"only\" implements Google chat translation",
+      "description": "\"Google\" is a Google extension add-on for Aristois, it currently \"only\" implements Google chat translation",
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
-      "sha1": "113cf81c193019981db48cc9e09ec2780679b798"
+      "sha1": "fe6dab8f662e27b1db7d4c92db3c8c46b38b9e89"
     },
     {
       "id": "TheAltening",
