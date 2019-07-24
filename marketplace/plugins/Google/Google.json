@@ -3,7 +3,7 @@
   "id": "Google",
   "name": "Google",
   "author": "Indrit",
-  "description": "GooglePlugin is a Google extension for Aristois Minecraft chat, it currently \"only\" implements Google chat translation",
+  "description": "\"Google\" is a Google extension add-on for Aristois, it currently \"only\" implements Google chat translation",
   "version": "2"
 
 }
