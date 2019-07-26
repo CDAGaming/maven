@@ -2,7 +2,7 @@
     "1.14.4": {
         "available": true,
         "first": false,
-        "version": "preview_OptiFine_1.14.4_HD_U_F2_pre1",
+        "version": "OptiFine_1.14.4_HD_U_F2",
         "beta": false,
         "subsystem": true,
         "optifabric": "1.14.3"
