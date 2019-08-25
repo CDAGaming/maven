@@ -1,0 +1,22 @@
+{
+    "updated": "2019-08-25", 
+    "1.14.4": {
+        "available": true,
+        "version": "OptiFine_1.14.4_HD_U_F3",
+        "optifabric": "https://github.com/modmuss50/OptiFabric/releases/download/0.5.1/optifabric-0.5.1.jar"
+    },
+    "1.14.3": {
+        "available": true,
+        "version": "OptiFine_1.14.3_HD_U_F2",
+        "optifabric": "https://github.com/modmuss50/OptiFabric/releases/download/0.5.1/optifabric-0.5.1.jar"
+    },
+    "1.14.2": {
+        "available": false
+    },
+    "1.14.1": {
+        "available": false
+    },
+    "1.14": {
+        "available": false
+    }
+}
