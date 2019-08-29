@@ -1,5 +1,5 @@
 {
-  "updated": "Sun Aug 25 2019 17:32:28 GMT+0200 (GMT+02:00)",
+  "updated": "Thu Aug 29 2019 17:14:15 GMT+0200 (GMT+02:00)",
   "mods": [
     {
       "id": "Baritone",
@@ -36,6 +36,15 @@
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
       "sha1": "fe6dab8f662e27b1db7d4c92db3c8c46b38b9e89"
+    },
+    {
+      "id": "NameMC",
+      "name": "NameMC",
+      "author": "Indrit",
+      "description": "NameMC integrated into Minecraft",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/NameMC/NameMC.jar",
+      "sha1": "5701d162cf348d88c2d508a5b13f6b3c28b7d656"
     },
     {
       "id": "optifine",
