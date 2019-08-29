@@ -1,11 +1,11 @@
 {
-  "updated": "Thu Aug 29 2019 17:32:36 GMT+0200 (GMT+02:00)",
+  "updated": "Thu Aug 29 2019 23:23:35 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Baritone",
       "author": "Indrit",
-      "description": "Baritone is an addon, \"Installer and version manager\", for Baritone. The addon lets you \"automine\", automatically get from A to B and much more! Currently supported versions are: 1.13.2 and 1.14.4",
+      "description": "Baritone is an addon, \"Installer and version manager\", for Baritone. The addon lets you \"automine\", automatically get from A to B and much more! Currently supported versions are: 1.13.2, 1.14.2, 1.14.3 and 1.14.4",
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
       "sha1": "6db5b42cf93a42fcc015f6b484c413d4a8711f21"
@@ -20,22 +20,13 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
-      "id": "fabric-api",
-      "name": "fabric-api",
-      "author": "deftware",
-      "description": "Adds Fabric mod support",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
-      "sha1": "3fb75f73234116b06aef8ccfba1422ed5b87a557"
-    },
-    {
       "id": "Google",
       "name": "Google",
       "author": "Indrit",
       "description": "\"Google\" is a Google extension add-on for Aristois, it currently \"only\" implements Google chat translation",
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
-      "sha1": "775ed68b2917e011783db59a9469e24dcca78976"
+      "sha1": "7ec0f83333acacaf9911f53b00c72083c5fd8bdd"
     },
     {
       "id": "NameMC",
@@ -44,16 +35,7 @@
       "description": "NameMC integrated into Minecraft",
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/NameMC/NameMC.jar",
-      "sha1": "2786d30334b7601a013546112a3c7937af211fc4"
-    },
-    {
-      "id": "optifine",
-      "name": "optifine",
-      "author": "Deftware",
-      "description": "Installs OptiFine for Aristois 1.14+",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "0efdd6f37531932e9e997f1d05b09ff3fa54c635"
+      "sha1": "ce19b87a3cfdd9896f39d87764ea6e292085550b"
     },
     {
       "id": "TheAltening",
@@ -63,6 +45,24 @@
       "version": "3",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
       "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
+    },
+    {
+      "id": "fabric-api",
+      "name": "fabric-api",
+      "author": "deftware",
+      "description": "Adds Fabric mod support",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
+      "sha1": "3fb75f73234116b06aef8ccfba1422ed5b87a557"
+    },
+    {
+      "id": "optifine",
+      "name": "optifine",
+      "author": "Deftware",
+      "description": "Installs OptiFine for Aristois 1.14+",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "0efdd6f37531932e9e997f1d05b09ff3fa54c635"
     }
   ]
 }
