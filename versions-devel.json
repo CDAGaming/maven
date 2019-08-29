@@ -8,10 +8,11 @@
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Fabric"
+      "Fabric"
     ]
   },
   "1.14.3": {
@@ -23,10 +24,11 @@
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Fabric"
+      "Fabric"
     ]
   },
   "1.14.2": {
@@ -38,10 +40,11 @@
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Fabric"
+      "Fabric"
     ]
   },
   "1.14.1": {
@@ -53,10 +56,11 @@
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Fabric"
+      "Fabric"
     ]
   },
   "1.14": {
@@ -68,10 +72,11 @@
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Fabric"
+      "Fabric"
     ]
   },
   "1.13.2": {
@@ -82,10 +87,11 @@
     "mainClass": "",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Rift"
+      "Rift"
     ]
   },
   "1.13.1": {
@@ -96,10 +102,11 @@
     "mainClass": "",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Rift"
+      "Rift"
     ]
   },
   "1.13": {
@@ -110,10 +117,11 @@
     "mainClass": "",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Rift"
+      "Rift"
     ]
   },
   "1.12.2": {
@@ -124,10 +132,11 @@
     "subsystem": "",
     "extraLibs": {},
     "launchers": [
-        "Vanilla", "MultiMC"
+      "Vanilla",
+      "MultiMC"
     ],
     "modloaders": [
-        "Forge"
+      "Forge"
     ]
   }
 }
