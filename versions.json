@@ -1,6 +1,6 @@
 {
   "1.14.4": {
-    "version": "13.9.3-1.14.4",
+    "version": "13.9.4-1.14.4",
     "inheritsFrom": "1.14.4",
     "tweaker": "",
     "subsystem": "0.4.5",
@@ -80,7 +80,7 @@
     ]
   },
   "1.13.2": {
-    "version": "13.9.3-1.13.2",
+    "version": "13.9.4-1.13.2",
     "inheritsFrom": "1.13.2",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
