@@ -22,7 +22,6 @@ async function run() {
         console.log(`Updated ${plugin.name}`);
     }
     fs.writeFileSync("./index.json", JSON.stringify(json, null, 2));
-    console.log("Done");
 }
 
 run();
