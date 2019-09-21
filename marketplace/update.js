@@ -19,8 +19,10 @@ async function run() {
         plugin.link = `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar`;
         plugin.sha1 = await sha1(`./plugins/${dir}/${dir}.jar`);
         json.mods.push(plugin);
+        console.log(`Updated ${plugin.name}`);
     }
     fs.writeFileSync("./index.json", JSON.stringify(json, null, 2));
+    console.log("Done");
 }
 
 run();
