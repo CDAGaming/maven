@@ -1,9 +1,9 @@
 {
   "1.14.4": {
-    "version": "13.9.4-1.14.4",
+    "version": "latest-1.14.4",
     "inheritsFrom": "1.14.4",
     "tweaker": "",
-    "subsystem": "0.4.5",
+    "subsystem": "latest-separate",
     "mappings": "1.14.4+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -16,10 +16,10 @@
     ]
   },
   "1.14.3": {
-    "version": "13.9.3-1.14.3",
+    "version": "latest-1.14.3",
     "inheritsFrom": "1.14.3",
     "tweaker": "",
-    "subsystem": "0.4.5",
+    "subsystem": "latest-separate",
     "mappings": "1.14.3+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -32,10 +32,10 @@
     ]
   },
   "1.14.2": {
-    "version": "13.9.3-1.14.2",
+    "version": "latest-1.14.2",
     "inheritsFrom": "1.14.2",
     "tweaker": "",
-    "subsystem": "0.4.5",
+    "subsystem": "latest-separate",
     "mappings": "1.14.2+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -48,10 +48,10 @@
     ]
   },
   "1.14.1": {
-    "version": "13.9.3-1.14.1",
+    "version": "latest-1.14.1",
     "inheritsFrom": "1.14.1",
     "tweaker": "",
-    "subsystem": "0.4.5",
+    "subsystem": "latest-separate",
     "mappings": "1.14.1+build.5",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -64,10 +64,10 @@
     ]
   },
   "1.14": {
-    "version": "13.9.3-1.14",
+    "version": "latest-1.14",
     "inheritsFrom": "1.14",
     "tweaker": "",
-    "subsystem": "0.4.5",
+    "subsystem": "latest-separate",
     "mappings": "1.14+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -80,7 +80,7 @@
     ]
   },
   "1.13.2": {
-    "version": "13.9.4-1.13.2",
+    "version": "latest-1.13.2",
     "inheritsFrom": "1.13.2",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
@@ -95,7 +95,7 @@
     ]
   },
   "1.13.1": {
-    "version": "13.9.3-1.13.1",
+    "version": "latest-1.13.1",
     "inheritsFrom": "1.13.1",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
@@ -110,7 +110,7 @@
     ]
   },
   "1.13": {
-    "version": "13.9.3-1.13",
+    "version": "latest-1.13",
     "inheritsFrom": "1.13",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
@@ -125,7 +125,7 @@
     ]
   },
   "1.12.2": {
-    "version": "13.5.6-1.12.2",
+    "version": "latest-1.12.2",
     "inheritsFrom": "1.12.2",
     "tweaker": "me.deftware.launch.Launcher",
     "mainClass": "",

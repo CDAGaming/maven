@@ -4,6 +4,7 @@
  * Author: Deftware
  */
 
+const latest = true;
 const fs = require('fs');
 const path = require('path');
 
@@ -29,7 +30,7 @@ function updateJsonFile(file) {
         });
         latestVersion = latestVersion.toString();
         latestVersion = `${latestVersion.substring(0, 2)}.${latestVersion.substring(2, 3)}.${latestVersion.substring(3)}-${version}`;
-        content[version].version = latestVersion;
+        content[version].version = latest ? `latest-${version}` : latestVersion;
     });
     fs.writeFile(file, `${JSON.stringify(content, null, 2)}\n`, function (err) {
         if (err) {
@@ -37,6 +38,10 @@ function updateJsonFile(file) {
         }
         console.log(`Updated ${file}`);
     });
+}
+
+if (latest) {
+    console.warn("latest flag set to true");
 }
 
 updateJsonFile('./versions.json');
