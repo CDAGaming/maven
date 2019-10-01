@@ -1,0 +1,14 @@
+{
+    "1.13.2" {
+        "version": "OptiFine_1.13.2_HD_U_E7"
+    },
+    "1.13.1" {
+        "version": "OptiFine_1.13.1_HD_U_E4"
+    },
+    "1.13" {
+        "version": "OptiFine_1.13_HD_U_E4"
+    },
+    "1.12.2" {
+        "version": "OptiFine_1.12.2_HD_U_E3"
+    }
+}
