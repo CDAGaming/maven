@@ -1,5 +1,5 @@
 {
-  "updated": "Tue Oct 01 2019 13:59:58 GMT+0200 (Central European Summer Time)",
+  "updated": "Wed Oct 02 2019 22:41:27 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -53,7 +53,7 @@
       "description": "Installs OptiFine for Aristois 1.14+",
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "3cb37ec47c1b42e93d955a89b80fa2d365adac5e"
+      "sha1": "2692b52e31de29471c15af09dbae112884bf8e12"
     },
     {
       "id": "TheAltening",
