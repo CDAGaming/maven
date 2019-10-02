@@ -1,5 +1,5 @@
 {
-  "updated": "Wed Oct 02 2019 22:47:24 GMT+0200 (Central European Summer Time)",
+  "updated": "Wed Oct 02 2019 22:41:27 GMT+0200 (Central European Summer Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -20,6 +20,15 @@
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
+      "id": "fabric-api",
+      "name": "fabric-api",
+      "author": "deftware",
+      "description": "Adds Fabric mod support",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
+      "sha1": "a0c5834f8ea37f0adaf0450e13b78a5bb9c0d923"
+    },
+    {
       "id": "Google",
       "name": "Google",
       "author": "Indrit",
@@ -38,24 +47,6 @@
       "sha1": "ce19b87a3cfdd9896f39d87764ea6e292085550b"
     },
     {
-      "id": "TheAltening",
-      "name": "TheAltening",
-      "author": "Deftware",
-      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
-      "version": "3",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
-      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
-    },
-    {
-      "id": "fabric-api",
-      "name": "fabric-api",
-      "author": "deftware",
-      "description": "Adds Fabric mod support",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
-      "sha1": "a0c5834f8ea37f0adaf0450e13b78a5bb9c0d923"
-    },
-    {
       "id": "optifine",
       "name": "optifine",
       "author": "Deftware",
@@ -63,6 +54,15 @@
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
       "sha1": "2692b52e31de29471c15af09dbae112884bf8e12"
+    },
+    {
+      "id": "TheAltening",
+      "name": "TheAltening",
+      "author": "Deftware",
+      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
+      "version": "3",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
+      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
     }
   ]
 }
