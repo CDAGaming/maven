@@ -53,7 +53,7 @@
       "description": "Installs OptiFine for Aristois 1.14+",
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "2692b52e31de29471c15af09dbae112884bf8e12"
+      "sha1": "c0dc1f139996efbe535d483d79979e3fff8ee464"
     },
     {
       "id": "TheAltening",
