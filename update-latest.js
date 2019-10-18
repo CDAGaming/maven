@@ -6,7 +6,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const blacklist = ["subsystem", "optifabric"];
+const blacklist = ["subsystem", "optifabric", "gradle"];
 
 function readdirSync(p, a = []) {
     if (fs.statSync(p).isDirectory()) {

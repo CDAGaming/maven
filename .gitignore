@@ -3,6 +3,7 @@
 !/.gitignore
 !/versions.json
 !/marketplace
+!/gradle
 !/me
 !/org
 !/README.md
