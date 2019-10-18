@@ -1,7 +1,3 @@
-plugins {
-    id 'fabric-loom' version '0.2.5-SNAPSHOT'
-}
-
 repositories {
     maven { url "https://gitlab.com/EMC-Framework/maven/raw/master/" }
     maven { url 'https://maven.fabricmc.net' }
