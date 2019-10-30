@@ -1,4 +1,21 @@
 {
+  "19w44a": {
+    "version": "13.9.4-19w44a",
+    "inheritsFrom": "19w44a",
+    "clientInherit": "1.14.4",
+    "tweaker": "",
+    "subsystem": "latest-separate",
+    "mappings": "19w44a+build.1",
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Fabric"
+    ]
+  },
   "19w42a": {
     "version": "13.9.4-19w42a",
     "inheritsFrom": "19w42a",
