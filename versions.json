@@ -1,79 +1,11 @@
 {
-  "19w46b": {
-    "version": "13.9.4-19w46b",
-    "inheritsFrom": "19w46b",
+  "1.15-pre1": {
+    "version": "13.9.4-1.15-pre1",
+    "inheritsFrom": "1.15-pre1",
     "clientInherit": "1.14.4",
     "tweaker": "",
     "subsystem": "latest-separate",
-    "mappings": "19w46b+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "19w45b": {
-    "version": "13.9.4-19w45a",
-    "inheritsFrom": "19w45b",
-    "clientInherit": "1.14.4",
-    "tweaker": "",
-    "subsystem": "latest-separate",
-    "mappings": "19w45b+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "19w45a": {
-    "version": "13.9.4-19w45a",
-    "inheritsFrom": "19w45a",
-    "clientInherit": "1.14.4",
-    "tweaker": "",
-    "subsystem": "latest-separate",
-    "mappings": "19w45a+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "19w44a": {
-    "version": "13.9.4-19w42a",
-    "inheritsFrom": "19w44a",
-    "clientInherit": "1.14.4",
-    "tweaker": "",
-    "subsystem": "latest-separate",
-    "mappings": "19w44a+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "19w42a": {
-    "version": "13.9.4-19w42a",
-    "inheritsFrom": "19w42a",
-    "clientInherit": "1.14.4",
-    "tweaker": "",
-    "subsystem": "latest-separate",
-    "mappings": "19w42a+build.1",
+    "mappings": "1.15-pre1+build.3",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
