@@ -1,4 +1,21 @@
 {
+  "1.15-pre5": {
+    "version": "13.9.4-1.15-pre4",
+    "inheritsFrom": "1.15-pre5",
+    "clientInherit": "1.14.4",
+    "tweaker": "",
+    "subsystem": "latest-separate",
+    "mappings": "1.15-pre5+build.1",
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Fabric"
+    ]
+  },
   "1.15-pre4": {
     "version": "13.9.4-1.15-pre4",
     "inheritsFrom": "1.15-pre4",
