@@ -1,5 +1,5 @@
 {
-  "updated": "Fri Dec 06 2019 23:57:45 GMT+0100 (Central European Standard Time)",
+  "updated": "Sat Dec 07 2019 00:04:26 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -26,7 +26,7 @@
       "description": "Adds Fabric mod support",
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
-      "sha1": "b134edbe20c5ffe7b6c3cce9f3fdfd81c5cfeb6f"
+      "sha1": "7bb38719c95777b06ebffacf6c2f0e2ce6942b86"
     },
     {
       "id": "Google",
