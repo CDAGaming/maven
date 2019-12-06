@@ -1,4 +1,7 @@
 {
+    "1.15": {
+        "available": false
+    },
     "1.14.4": {
         "available": true,
         "version": "1.4.0+updated",
