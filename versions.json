@@ -51,7 +51,7 @@
     ]
   },
   "1.14.4": {
-    "version": "latest-1.14.4",
+    "version": "13.9.4-1.14.4",
     "inheritsFrom": "1.14.4",
     "tweaker": "",
     "subsystem": "latest-separate",
