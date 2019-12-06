@@ -1,5 +1,5 @@
 {
-  "updated": "Fri Dec 06 2019 23:34:49 GMT+0100 (Central European Standard Time)",
+  "updated": "Fri Dec 06 2019 23:56:49 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -8,7 +8,7 @@
       "description": "Baritone is an addon, \"Installer and version manager\", for Baritone. The addon lets you \"automine\", automatically get from A to B and much more! Currently supported versions are: 1.13.2, 1.14.2, 1.14.3 and 1.14.4",
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
-      "sha1": "87f64bcf15425787cb7bb0c5f727868dffe938d0"
+      "sha1": "bcbee5684049761ab775c00b33cba425987ad7ec"
     },
     {
       "id": "EMC-Discord-RPC",
