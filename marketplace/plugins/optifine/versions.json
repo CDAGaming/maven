@@ -5,7 +5,7 @@
     },
     "1.14.4": {
         "available": true,
-        "version": "OptiFine_1.14.4_HD_U_F5",
+        "version": "OptiFine_1.14.4_HD_U_F3",
         "optifabric": "https://github.com/modmuss50/OptiFabric/releases/download/0.5.1/optifabric-0.5.1.jar",
         "optifabric_v2": "https://github.com/modmuss50/OptiFabric/releases/download/0.7.0/optifabric-0.7.0.jar",
         "optifabric_path": "%emc%optifabric.jar",
