@@ -7,7 +7,7 @@
         "version": "1.4.0+updated",
         "type": "fabric",
         "url": "https://gitlab.com/emc-mods-indrit/baritone_api/raw/master/releases/fabritone-1.14.4.jar",
-        "url-v2": "https://gitlab.com/emc-mods-indrit/baritone_api/raw/master/releases/fabritone-1.14.4.jar"
+        "url-v2": "https://gitlab.com/emc-mods-indrit/baritone_api/raw/master/releases/v2/fabritone-1.14.4.jar"
     },
     "1.14.3": {
         "available": true,
