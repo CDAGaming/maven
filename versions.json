@@ -1,6 +1,6 @@
 {
   "1.15-pre7-v2": {
-    "version": "latest-1.15-pre6-v2",
+    "version": "13.9.4-1.15-pre6",
     "inheritsFrom": "1.15-pre7",
     "clientInherit": "1.14.4",
     "tweaker": "",
@@ -17,7 +17,7 @@
     ]
   },
   "1.15-pre6-v2": {
-    "version": "latest-1.15-pre6-v2",
+    "version": "13.9.4-1.15-pre6",
     "inheritsFrom": "1.15-pre6",
     "clientInherit": "1.14.4",
     "tweaker": "",
@@ -34,7 +34,7 @@
     ]
   },
   "1.15_combat-1-v2": {
-    "version": "latest-1.15_combat-1-v2",
+    "version": "13.9.4-1.15_combat-1",
     "inheritsFrom": "1.15_combat-1",
     "clientInherit": "1.14.4",
     "tweaker": "",
@@ -51,7 +51,7 @@
     ]
   },
   "1.14.4-v2": {
-    "version": "latest-1.14.4-v2",
+    "version": "latest-1.14.4",
     "inheritsFrom": "1.14.4",
     "tweaker": "",
     "subsystem": "0.7.1",
