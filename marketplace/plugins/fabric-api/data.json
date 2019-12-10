@@ -1,4 +1,7 @@
 {
+    "1.15": {
+        "url": "https://media.forgecdn.net/files/2839/348/fabric-api-0.4.23%2Bbuild.276-1.15.jar"
+    },
     "1.14.4": {
         "url": "https://media.forgecdn.net/files/2756/853/fabric-api-0.3.1%2Bbuild.208.jar"
     },
