@@ -1,28 +1,11 @@
 {
-  "1.15-pre7-v2": {
-    "version": "13.9.4-1.15-pre6",
-    "inheritsFrom": "1.15-pre7",
+  "1.15-v2": {
+    "version": "latest-1.15",
+    "inheritsFrom": "1.15",
     "clientInherit": "1.14.4",
     "tweaker": "",
     "subsystem": "0.7.1",
-    "mappings": "1.15-pre7+build.1:v2",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "1.15-pre6-v2": {
-    "version": "13.9.4-1.15-pre6",
-    "inheritsFrom": "1.15-pre6",
-    "clientInherit": "1.14.4",
-    "tweaker": "",
-    "subsystem": "0.7.1",
-    "mappings": "1.15-pre6+build.1:v2",
+    "mappings": "1.15+build.1:v2",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
