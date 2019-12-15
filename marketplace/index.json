@@ -1,5 +1,5 @@
 {
-  "updated": "Sun Dec 15 2019 20:23:21 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 15 2019 20:25:49 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -65,7 +65,7 @@
         "fabric-api"
       ],
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/SeedCracker/SeedCracker.jar",
-      "sha1": "0cbef2aefef5a0ee2de295dac96dee57c367f106"
+      "sha1": "139337609c57fdc30b561f5e1bd3057029352f63"
     },
     {
       "id": "TheAltening",
