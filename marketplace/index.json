@@ -1,5 +1,5 @@
 {
-  "updated": "Tue Dec 10 2019 17:19:15 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 15 2019 20:23:21 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -54,6 +54,18 @@
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
       "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
+    },
+    {
+      "id": "SeedCracker",
+      "name": "SeedCracker",
+      "author": "KaptainWutax",
+      "description": "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker",
+      "version": "1",
+      "depends": [
+        "fabric-api"
+      ],
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/SeedCracker/SeedCracker.jar",
+      "sha1": "0cbef2aefef5a0ee2de295dac96dee57c367f106"
     },
     {
       "id": "TheAltening",
