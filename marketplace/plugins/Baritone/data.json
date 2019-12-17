@@ -5,11 +5,11 @@
         "type": "fabric",
         "url-v2": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/experiment/combat/raw/build/libs/fabritone-1.4.5.jar?job=build"
     },
-    "1.15.1-pre1": {
+    "1.15.1": {
         "available": true,
         "version": "1.4.5",
         "type": "fabric",
-        "url-v2": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/snapshot/raw/build/libs/fabritone-1.4.5.jar?job=build"
+        "url-v2": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/1.15.1/raw/build/libs/fabritone-1.4.5.jar?job=build"
     },
     "1.15": {
         "available": true,
