@@ -1,0 +1,9 @@
+{
+    "1.15.1": {
+        "available": false
+    },
+    "1.15": {
+        "available": true,
+        "url-v2": "https://media.forgecdn.net/files/2845/913/multiconnect-1.1.1.jar"
+    }
+}

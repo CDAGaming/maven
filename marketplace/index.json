@@ -1,5 +1,5 @@
 {
-  "updated": "Thu Dec 19 2019 16:52:14 GMT+0100 (Central European Standard Time)",
+  "updated": "Fri Dec 20 2019 23:50:36 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -36,6 +36,15 @@
       "version": "2",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
       "sha1": "7ec0f83333acacaf9911f53b00c72083c5fd8bdd"
+    },
+    {
+      "id": "multiconnect",
+      "name": "multiconnect",
+      "author": "EarthComputer",
+      "description": "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/multiconnect/multiconnect.jar",
+      "sha1": "3c97e7002aa0f430d4f038dfd8ac1642ab341b53"
     },
     {
       "id": "NameMC",
