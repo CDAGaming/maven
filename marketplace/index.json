@@ -1,5 +1,5 @@
 {
-  "updated": "Fri Dec 20 2019 23:53:01 GMT+0100 (Central European Standard Time)",
+  "updated": "Sat Dec 21 2019 15:35:49 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
@@ -18,51 +18,6 @@
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
-    },
-    {
-      "id": "fabric-api",
-      "name": "fabric-api",
-      "author": "deftware",
-      "description": "Adds Fabric mod support",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
-      "sha1": "7bb38719c95777b06ebffacf6c2f0e2ce6942b86"
-    },
-    {
-      "id": "Google",
-      "name": "Google",
-      "author": "Indrit",
-      "description": "\"Google\" is a Google extension add-on for Aristois, it currently \"only\" implements Google chat translation",
-      "version": "2",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Google/Google.jar",
-      "sha1": "7ec0f83333acacaf9911f53b00c72083c5fd8bdd"
-    },
-    {
-      "id": "multiconnect",
-      "name": "multiconnect",
-      "author": "EarthComputer",
-      "description": "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/multiconnect/multiconnect.jar",
-      "sha1": "3c97e7002aa0f430d4f038dfd8ac1642ab341b53"
-    },
-    {
-      "id": "NameMC",
-      "name": "NameMC",
-      "author": "Indrit",
-      "description": "NameMC integrated into Minecraft",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/NameMC/NameMC.jar",
-      "sha1": "ce19b87a3cfdd9896f39d87764ea6e292085550b"
-    },
-    {
-      "id": "optifine",
-      "name": "optifine",
-      "author": "Deftware",
-      "description": "Installs OptiFine for Aristois 1.14+",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
     },
     {
       "id": "SeedCracker",
@@ -84,6 +39,33 @@
       "version": "3",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
       "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
+    },
+    {
+      "id": "fabric-api",
+      "name": "fabric-api",
+      "author": "deftware",
+      "description": "Adds Fabric mod support",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
+      "sha1": "7bb38719c95777b06ebffacf6c2f0e2ce6942b86"
+    },
+    {
+      "id": "multiconnect",
+      "name": "multiconnect",
+      "author": "EarthComputer",
+      "description": "Allows you to join Minecraft servers using 1.13 up to the version you are using",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/multiconnect/multiconnect.jar",
+      "sha1": "3c97e7002aa0f430d4f038dfd8ac1642ab341b53"
+    },
+    {
+      "id": "optifine",
+      "name": "optifine",
+      "author": "Deftware",
+      "description": "Installs OptiFine for Aristois 1.14+",
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
     }
   ]
 }
