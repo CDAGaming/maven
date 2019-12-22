@@ -1,10 +1,10 @@
 {
-  "updated": "Sun Dec 22 2019 22:56:39 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 22 2019 22:58:05 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
       "name": "Fabritone",
-      "author": "Deftware, Indrit, CDAGaming",
+      "author": "Indrit, CDAGaming",
       "summary": "Automine bot for Aristois, fork of Baritone",
       "description": [
         "Fabritone is a fork of Baritone made for Aristois. The addon lets",
