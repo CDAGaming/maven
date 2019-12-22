@@ -1,15 +1,35 @@
 {
-  "updated": "Sun Dec 22 2019 22:58:05 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 22 2019 23:27:49 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
+      "tester": {
+        "fileName": "baritone-%mc%",
+        "versions": {
+          "1.15.1": {
+            "url": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/1.15.1/raw/build/libs/fabritone-1.4.5.jar?job=build",
+            "version": "1.4.5",
+            "scheme": "-v2"
+          },
+          "1.15": {
+            "url": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/1.15/raw/build/libs/fabritone-1.4.5.jar?job=build",
+            "version": "1.4.5",
+            "scheme": "-v2"
+          },
+          "1.14.4": {
+            "url": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/master/raw/build/libs/fabritone-1.4.5.jar?job=build",
+            "version": "1.4.5",
+            "scheme": "-v2"
+          }
+        }
+      },
       "id": "Baritone",
       "name": "Fabritone",
       "author": "Indrit, CDAGaming",
-      "summary": "Automine bot for Aristois, fork of Baritone",
+      "summary": "Automine bot for Aristois, fork of Baritone. Supports 1.14.4 through 1.15.1",
       "description": [
         "Fabritone is a fork of Baritone made for Aristois. The addon lets",
-        "you \"automine\", i.e. automatically get from A to B and much more!",
-        "Currently supported versions are: 1.13.2 through 1.15.1",
+        "you \"automine\", automatically get from A to B, and much more!",
+        "Currently supported versions are: 1.14.4 through 1.15.1",
         "Source at https://gitlab.com/CDAGaming/fabritone"
       ],
       "version": "4",
