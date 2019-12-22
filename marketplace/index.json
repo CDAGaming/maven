@@ -1,19 +1,6 @@
 {
-  "updated": "Mon Dec 23 2019 00:04:06 GMT+0100 (Central European Standard Time)",
+  "updated": "Mon Dec 23 2019 00:26:16 GMT+0100 (Central European Standard Time)",
   "mods": [
-    {
-      "id": "EMC-Discord-RPC",
-      "name": "EMC-Discord-RPC",
-      "author": "Deftware",
-      "summary": "Aristois Discord Rich Presence",
-      "description": [
-        "Discord Rich Presence for Aristois",
-        "Makes it say that you are playing Aristois on Discord"
-      ],
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
-      "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
-    },
     {
       "fabric": {
         "fileName": "fabric-api",
