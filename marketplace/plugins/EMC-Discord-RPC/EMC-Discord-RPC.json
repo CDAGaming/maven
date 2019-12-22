@@ -2,10 +2,6 @@
     "id": "EMC-Discord-RPC",
     "name": "EMC-Discord-RPC",
     "author": "Deftware",
-    "summary": "Aristois Discord Rich Presence",
-    "description": [
-        "Discord Rich Presence for Aristois",
-        "Makes it say that you are playing Aristois on Discord"
-    ],
+    "description": "Discord Rich Presence for Aristois",
     "version": "1"
 }

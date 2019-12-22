@@ -1,0 +1,9 @@
+{
+    "1.15.1": {
+        "available": false
+    },
+    "1.15": {
+        "available": true,
+        "url-v2": "https://github.com/KaptainWutax/SeedCracker/releases/download/v0.0.2-alpha/seedcracker-0.0.2-alpha.jar"
+    }
+}
