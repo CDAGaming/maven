@@ -1,9 +1,31 @@
 {
-
+  "fabric": {
+    "fileName": "fabric-api",
+    "versions": {
+      "1.15.1": {
+        "url": "https://media.forgecdn.net/files/2844/436/fabric-api-0.4.25%2Bbuild.282-1.15.jar",
+        "version": "0.4.25",
+        "scheme": "-v2"
+      },
+      "1.15": {
+        "url": "https://media.forgecdn.net/files/2839/348/fabric-api-0.4.23%2Bbuild.276-1.15.jar",
+        "version": "0.4.23",
+        "scheme": "-v2"
+      },
+      "1.14.4": {
+        "url": "https://media.forgecdn.net/files/2756/853/fabric-api-0.3.1%2Bbuild.208.jar",
+        "version": "0.3.1",
+        "scheme": "-v2"
+      }
+    }
+  },
   "id": "fabric-api",
   "name": "fabric-api",
-  "author": "deftware",
-  "description": "Adds Fabric mod support",
+  "author": "Fabric Team",
+  "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
+  "description": [
+    "Adds Fabric mod support",
+    "Supported versions are 1.14.4 through 1.15.1"
+  ],
   "version": "1"
-
 }

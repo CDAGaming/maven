@@ -16,8 +16,9 @@ async function run() {
     };
     for (let dir of fs.readdirSync("./plugins/")) {
         let plugin = JSON.parse(fs.readFileSync(`./plugins/${dir}/${dir}.json`));
-        plugin.link = `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar`;
-        plugin.sha1 = await sha1(`./plugins/${dir}/${dir}.jar`);
+        let physicalFile = fs.existsSync(`./plugins/${dir}/${dir}.jar`);
+        plugin.link = physicalFile ? `https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/${dir}/${dir}.jar` : "";
+        plugin.sha1 = physicalFile ? await sha1(`./plugins/${dir}/${dir}.jar`) : "0";
         json.mods.push(plugin);
         console.log(`Updated ${plugin.name}`);
     }
