@@ -1,11 +1,27 @@
 {
+    "fabric": {
+        "fileName": "multiconnect",
+        "versions": {
+            "1.15.1": {
+                "url": "https://github.com/Earthcomputer/multiconnect/releases/download/v1.1.1/multiconnect-1.1.1.jar",
+                "version": "1.1.1",
+                "scheme": "-v2"
+            },
+            "1.15": {
+                "url": "https://media.forgecdn.net/files/2845/913/multiconnect-1.1.1.jar",
+                "version": "1.1.1",
+                "scheme": "-v2"
+            }
+        }
+    },
     "id": "multiconnect",
-    "name": "multiconnect",
+    "name": "MultiConnect",
     "author": "EarthComputer",
     "summary": "Allows you to join any mc version using the latest version",
     "description": [
         "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
-        "MIT license, source at https://github.com/Earthcomputer/multiconnect"
+        "MIT license, source at https://github.com/Earthcomputer/multiconnect",
+        "Supported on Minecraft 1.15 and 1.15.1"
     ],
     "version": "1"
 }

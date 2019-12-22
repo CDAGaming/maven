@@ -1,8 +1,18 @@
 {
+    "fabric": {
+        "fileName": "SeedCracker",
+        "versions": {
+            "1.15": {
+                "url": "https://github.com/KaptainWutax/SeedCracker/releases/download/v0.0.2-alpha/seedcracker-0.0.2-alpha.jar",
+                "version": "v0.0.2-alpha",
+                "scheme": "-v2"
+            }
+        }
+    },
     "id": "SeedCracker",
     "name": "SeedCracker",
     "author": "KaptainWutax",
-    "summary": "Find the seed of any server",
+    "summary": "Find the seed of any server, supports 1.15, 1.15.1 coming soon",
     "description": [
         "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
     ],

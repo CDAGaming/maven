@@ -1,5 +1,5 @@
 {
-  "tester": {
+  "fabric": {
     "fileName": "baritone-%mc%",
     "versions": {
       "1.15.1": {
@@ -19,7 +19,7 @@
       }
     }
   },
-  "id": "Baritone",
+  "id": "Fabritone",
   "name": "Fabritone",
   "author": "Indrit, CDAGaming",
   "summary": "Automine bot for Aristois, fork of Baritone. Supports 1.14.4 through 1.15.1",
