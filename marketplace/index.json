@@ -1,5 +1,5 @@
 {
-  "updated": "Mon Dec 23 2019 00:26:34 GMT+0100 (Central European Standard Time)",
+  "updated": "Mon Dec 23 2019 00:27:55 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "fabric": {
@@ -23,7 +23,7 @@
         }
       },
       "id": "fabric-api",
-      "name": "fabric-api",
+      "name": "Fabric Api",
       "author": "Fabric Team",
       "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
       "description": [

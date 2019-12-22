@@ -20,7 +20,7 @@
     }
   },
   "id": "fabric-api",
-  "name": "fabric-api",
+  "name": "Fabric Api",
   "author": "Fabric Team",
   "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
   "description": [
