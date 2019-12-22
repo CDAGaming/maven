@@ -1,7 +1,10 @@
 {
     "id": "optifine",
-    "name": "optifine",
-    "author": "Deftware",
-    "description": "Installs OptiFine for Aristois 1.14+",
+    "name": "OptiFine",
+    "author": "sp614x",
+    "summary": "Installs OptiFine for Aristois 1.14+",
+    "description": [
+        "Installs OptiFine for Aristois 1.14+"
+    ],
     "version": "1"
 }

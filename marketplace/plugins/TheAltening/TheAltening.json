@@ -2,6 +2,9 @@
     "id": "TheAltening",
     "name": "TheAltening",
     "author": "Deftware",
-    "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
+    "summary": "Easy and unlimited alts by thealtening.com",
+    "description": [
+        "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com"
+    ],
     "version": "3"
 }

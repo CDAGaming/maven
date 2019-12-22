@@ -2,6 +2,10 @@
     "id": "multiconnect",
     "name": "multiconnect",
     "author": "EarthComputer",
-    "description": "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
+    "summary": "Allows you to join any mc version using the latest version",
+    "description": [
+        "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
+        "MIT license, source at https://github.com/Earthcomputer/multiconnect"
+    ],
     "version": "1"
 }

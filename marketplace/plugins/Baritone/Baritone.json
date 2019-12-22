@@ -1,9 +1,13 @@
 {
-
   "id": "Baritone",
-  "name": "Baritone",
-  "author": "Indrit",
-  "description": "Baritone is an addon, \"Installer and version manager\", for Baritone. The addon lets you \"automine\", automatically get from A to B and much more! Currently supported versions are: 1.13.2, 1.14.2, 1.14.3, 1.14.4, 1.15, and 1.15.1",
+  "name": "Fabritone",
+  "author": "Deftware, Indrit, CDAGaming",
+  "summary": "Automine bot for Aristois, fork of Baritone",
+  "description": [
+    "Fabritone is a fork of Baritone made for Aristois. The addon lets",
+    "you \"automine\", i.e. automatically get from A to B and much more!",
+    "Currently supported versions are: 1.13.2 through 1.15.1",
+    "Source at https://gitlab.com/CDAGaming/fabritone"
+  ],
   "version": "4"
-
 }

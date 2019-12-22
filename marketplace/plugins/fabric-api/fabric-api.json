@@ -2,8 +2,11 @@
 
   "id": "fabric-api",
   "name": "fabric-api",
-  "author": "deftware",
-  "description": "Adds Fabric mod support",
+  "author": "Fabric Team",
+  "summary": "Adds Fabric mod support",
+  "description": [
+    "Adds Fabric mod support"
+  ],
   "version": "1"
 
 }

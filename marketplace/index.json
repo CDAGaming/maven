@@ -1,11 +1,17 @@
 {
-  "updated": "Sat Dec 21 2019 15:35:49 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 22 2019 22:50:00 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "id": "Baritone",
-      "name": "Baritone",
-      "author": "Indrit",
-      "description": "Baritone is an addon, \"Installer and version manager\", for Baritone. The addon lets you \"automine\", automatically get from A to B and much more! Currently supported versions are: 1.13.2, 1.14.2, 1.14.3, 1.14.4, 1.15, and 1.15.1",
+      "name": "Fabritone",
+      "author": "Deftware, Indrit, CDAGaming",
+      "summary": "Automine bot for Aristois, fork of Baritone",
+      "description": [
+        "Fabritone is a fork of Baritone made for Aristois. The addon lets",
+        "you \"automine\", i.e. automatically get from A to B and much more!",
+        "Currently supported versions are: 1.13.2 through 1.15.1",
+        "Source at https://gitlab.com/CDAGaming/fabritone"
+      ],
       "version": "4",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/Baritone/Baritone.jar",
       "sha1": "bcbee5684049761ab775c00b33cba425987ad7ec"
@@ -14,16 +20,60 @@
       "id": "EMC-Discord-RPC",
       "name": "EMC-Discord-RPC",
       "author": "Deftware",
-      "description": "Discord Rich Presence for Aristois",
+      "summary": "Aristois Discord Rich Presence",
+      "description": [
+        "Discord Rich Presence for Aristois",
+        "Makes it say that you are playing Aristois on Discord"
+      ],
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/EMC-Discord-RPC/EMC-Discord-RPC.jar",
       "sha1": "a0fc8cc728072caf7f03613fac231ab383366886"
     },
     {
+      "id": "fabric-api",
+      "name": "fabric-api",
+      "author": "Fabric Team",
+      "summary": "Adds Fabric mod support",
+      "description": [
+        "Adds Fabric mod support"
+      ],
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
+      "sha1": "7bb38719c95777b06ebffacf6c2f0e2ce6942b86"
+    },
+    {
+      "id": "multiconnect",
+      "name": "multiconnect",
+      "author": "EarthComputer",
+      "summary": "Allows you to join any mc version using the latest version",
+      "description": [
+        "Allows you to join Minecraft 1.13 through 1.15 on the latest mc version",
+        "MIT license, source at https://github.com/Earthcomputer/multiconnect"
+      ],
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/multiconnect/multiconnect.jar",
+      "sha1": "3c97e7002aa0f430d4f038dfd8ac1642ab341b53"
+    },
+    {
+      "id": "optifine",
+      "name": "OptiFine",
+      "author": "sp614x",
+      "summary": "Installs OptiFine for Aristois 1.14+",
+      "description": [
+        "Installs OptiFine for Aristois 1.14+"
+      ],
+      "version": "1",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
+      "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
+    },
+    {
       "id": "SeedCracker",
       "name": "SeedCracker",
       "author": "KaptainWutax",
-      "description": "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker",
+      "summary": "Find the seed of any server",
+      "description": [
+        "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
+      ],
       "version": "1",
       "depends": [
         "fabric-api"
@@ -35,37 +85,13 @@
       "id": "TheAltening",
       "name": "TheAltening",
       "author": "Deftware",
-      "description": "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com",
+      "summary": "Easy and unlimited alts by thealtening.com",
+      "description": [
+        "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com"
+      ],
       "version": "3",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
       "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
-    },
-    {
-      "id": "fabric-api",
-      "name": "fabric-api",
-      "author": "deftware",
-      "description": "Adds Fabric mod support",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/fabric-api/fabric-api.jar",
-      "sha1": "7bb38719c95777b06ebffacf6c2f0e2ce6942b86"
-    },
-    {
-      "id": "multiconnect",
-      "name": "multiconnect",
-      "author": "EarthComputer",
-      "description": "Allows you to join Minecraft servers using 1.13 up to the version you are using",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/multiconnect/multiconnect.jar",
-      "sha1": "3c97e7002aa0f430d4f038dfd8ac1642ab341b53"
-    },
-    {
-      "id": "optifine",
-      "name": "optifine",
-      "author": "Deftware",
-      "description": "Installs OptiFine for Aristois 1.14+",
-      "version": "1",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
     }
   ]
 }

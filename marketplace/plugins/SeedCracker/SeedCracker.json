@@ -2,7 +2,10 @@
     "id": "SeedCracker",
     "name": "SeedCracker",
     "author": "KaptainWutax",
-    "description": "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker",
+    "summary": "Find the seed of any server",
+    "description": [
+        "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
+    ],
     "version": "1",
     "depends": [
         "fabric-api"
