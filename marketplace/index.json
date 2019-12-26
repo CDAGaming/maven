@@ -1,5 +1,5 @@
 {
-  "updated": "Thu Dec 26 2019 20:44:26 GMT+0100 (Central European Standard Time)",
+  "updated": "Thu Dec 26 2019 20:45:26 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "fabric": {
@@ -55,7 +55,7 @@
       "id": "SeedCracker",
       "name": "SeedCracker",
       "author": "KaptainWutax",
-      "summary": "Find the seed of any server, supports 1.15, 1.15.1 coming soon",
+      "summary": "Find the seed of any server, supports 1.15, 1.15.1",
       "description": [
         "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
       ],
