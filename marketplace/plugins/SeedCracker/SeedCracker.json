@@ -6,6 +6,11 @@
                 "url": "https://github.com/KaptainWutax/SeedCracker/releases/download/v0.0.2-alpha/seedcracker-0.0.2-alpha.jar",
                 "version": "v0.0.2-alpha",
                 "scheme": "-v2"
+            },
+            "1.15.1": {
+                "url": "https://gitlab.com/CDAGaming/SeedCracker/-/jobs/389253854/artifacts/file/build/libs/seedcracker-0.0.2-alpha.jar",
+                "version": "v0.0.2-alpha",
+                "scheme": "-v2"
             }
         }
     },
