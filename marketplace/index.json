@@ -1,6 +1,39 @@
 {
-  "updated": "Thu Dec 26 2019 20:45:26 GMT+0100 (Central European Standard Time)",
+  "updated": "Thu Dec 26 2019 21:08:45 GMT+0100 (Central European Standard Time)",
   "mods": [
+    {
+      "fabric": {
+        "fileName": "fabric-api",
+        "versions": {
+          "1.15.1": {
+            "url": "https://media.forgecdn.net/files/2844/436/fabric-api-0.4.25%2Bbuild.282-1.15.jar",
+            "version": "0.4.25",
+            "scheme": "-v2"
+          },
+          "1.15": {
+            "url": "https://media.forgecdn.net/files/2839/348/fabric-api-0.4.23%2Bbuild.276-1.15.jar",
+            "version": "0.4.23",
+            "scheme": "-v2"
+          },
+          "1.14.4": {
+            "url": "https://media.forgecdn.net/files/2756/853/fabric-api-0.3.1%2Bbuild.208.jar",
+            "version": "0.3.1",
+            "scheme": "-v2"
+          }
+        }
+      },
+      "id": "fabric-api",
+      "name": "Fabric Api",
+      "author": "Fabric Team",
+      "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
+      "description": [
+        "Adds Fabric mod support",
+        "Supported versions are 1.14.4 through 1.15.1"
+      ],
+      "version": "1",
+      "link": "",
+      "sha1": "0"
+    },
     {
       "fabric": {
         "fileName": "baritone-%mc%",
@@ -33,81 +66,6 @@
         "Source at https://gitlab.com/CDAGaming/fabritone"
       ],
       "version": "4",
-      "link": "",
-      "sha1": "0"
-    },
-    {
-      "fabric": {
-        "fileName": "SeedCracker",
-        "versions": {
-          "1.15": {
-            "url": "https://github.com/KaptainWutax/SeedCracker/releases/download/v0.0.2-alpha/seedcracker-0.0.2-alpha.jar",
-            "version": "v0.0.2-alpha",
-            "scheme": "-v2"
-          },
-          "1.15.1": {
-            "url": "https://gitlab.com/CDAGaming/SeedCracker/-/jobs/389253854/artifacts/file/build/libs/seedcracker-0.0.2-alpha.jar",
-            "version": "v0.0.2-alpha",
-            "scheme": "-v2"
-          }
-        }
-      },
-      "id": "SeedCracker",
-      "name": "SeedCracker",
-      "author": "KaptainWutax",
-      "summary": "Find the seed of any server, supports 1.15, 1.15.1",
-      "description": [
-        "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
-      ],
-      "version": "1",
-      "depends": [
-        "fabric-api"
-      ],
-      "link": "",
-      "sha1": "0"
-    },
-    {
-      "id": "TheAltening",
-      "name": "TheAltening",
-      "author": "Deftware",
-      "summary": "Easy and unlimited alts by thealtening.com",
-      "description": [
-        "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com"
-      ],
-      "version": "3",
-      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
-      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
-    },
-    {
-      "fabric": {
-        "fileName": "fabric-api",
-        "versions": {
-          "1.15.1": {
-            "url": "https://media.forgecdn.net/files/2844/436/fabric-api-0.4.25%2Bbuild.282-1.15.jar",
-            "version": "0.4.25",
-            "scheme": "-v2"
-          },
-          "1.15": {
-            "url": "https://media.forgecdn.net/files/2839/348/fabric-api-0.4.23%2Bbuild.276-1.15.jar",
-            "version": "0.4.23",
-            "scheme": "-v2"
-          },
-          "1.14.4": {
-            "url": "https://media.forgecdn.net/files/2756/853/fabric-api-0.3.1%2Bbuild.208.jar",
-            "version": "0.3.1",
-            "scheme": "-v2"
-          }
-        }
-      },
-      "id": "fabric-api",
-      "name": "Fabric Api",
-      "author": "Fabric Team",
-      "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
-      "description": [
-        "Adds Fabric mod support",
-        "Supported versions are 1.14.4 through 1.15.1"
-      ],
-      "version": "1",
       "link": "",
       "sha1": "0"
     },
@@ -151,6 +109,48 @@
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
       "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
+    },
+    {
+      "fabric": {
+        "fileName": "SeedCracker",
+        "versions": {
+          "1.15": {
+            "url": "https://github.com/KaptainWutax/SeedCracker/releases/download/v0.0.2-alpha/seedcracker-0.0.2-alpha.jar",
+            "version": "v0.0.2-alpha",
+            "scheme": "-v2"
+          },
+          "1.15.1": {
+            "url": "https://gitlab.com/CDAGaming/SeedCracker/-/jobs/389253854/artifacts/raw/build/libs/seedcracker-0.0.2-alpha.jar",
+            "version": "v0.0.2-alpha",
+            "scheme": "-v2"
+          }
+        }
+      },
+      "id": "SeedCracker",
+      "name": "SeedCracker",
+      "author": "KaptainWutax",
+      "summary": "Find the seed of any server, supports 1.15, 1.15.1",
+      "description": [
+        "Installs the SeedCracker found at https://github.com/KaptainWutax/SeedCracker"
+      ],
+      "version": "1",
+      "depends": [
+        "fabric-api"
+      ],
+      "link": "",
+      "sha1": "0"
+    },
+    {
+      "id": "TheAltening",
+      "name": "TheAltening",
+      "author": "Deftware",
+      "summary": "Easy and unlimited alts by thealtening.com",
+      "description": [
+        "TheAltening support for EMC/Aristois, unlimited alts by thealtening.com"
+      ],
+      "version": "3",
+      "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/TheAltening/TheAltening.jar",
+      "sha1": "388ed07d32a73848b92e2f7618ad96abe3e249d9"
     }
   ]
 }
