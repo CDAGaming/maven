@@ -1,5 +1,5 @@
 {
-  "updated": "Thu Dec 26 2019 21:08:45 GMT+0100 (Central European Standard Time)",
+  "updated": "Sun Dec 29 2019 15:30:12 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "fabric": {
@@ -108,7 +108,7 @@
       ],
       "version": "1",
       "link": "https://gitlab.com/EMC-Framework/maven/raw/master/marketplace/plugins/optifine/optifine.jar",
-      "sha1": "1b46eadc11343b76f3d46a85c648a3f01315910f"
+      "sha1": "e58c673fb2fc3e49d844a8476aec57914e4dbdda"
     },
     {
       "fabric": {
