@@ -1,5 +1,4 @@
 #!/bin/bash
-node update-json
 node update-latest
 cd marketplace
 node update
