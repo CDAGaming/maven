@@ -1,9 +1,26 @@
 {
+  "1.15.2-pre1-v2": {
+    "version": "13.9.5-1.15.2-pre1",
+    "inheritsFrom": "1.15.2-pre1",
+    "clientInherit": "1.15.1",
+    "clientVersion": "278",
+    "tweaker": "",
+    "subsystem": "0.7.2",
+    "mappings": "1.15.2-pre1+build.1:v2",
+    "mainClass": "me.deftware.client.framework.main.Main",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Fabric"
+    ]
+  },
   "1.15.1-v2": {
     "version": "latest-1.15.1",
     "inheritsFrom": "1.15.1",
-    "clientInherit": "1.14.4",
-    "isUsingJVM": true,
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "0.7.2",
     "mappings": "1.15.1+build.1:v2",
@@ -20,8 +37,7 @@
   "1.15-v2": {
     "version": "latest-1.15",
     "inheritsFrom": "1.15",
-    "clientInherit": "1.14.4",
-    "isUsingJVM": true,
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "0.7.2",
     "mappings": "1.15+build.1:v2",
@@ -39,6 +55,7 @@
     "version": "latest-1.15_combat-1",
     "inheritsFrom": "1.15_combat-1",
     "clientInherit": "1.14.4",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "0.7.1",
     "mappings": "1.15_combat-1+build.2:v2",
@@ -55,7 +72,7 @@
   "1.14.4-v2": {
     "version": "latest-1.14.4",
     "inheritsFrom": "1.14.4",
-    "isUsingJVM": true,
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "0.7.2",
     "mappings": "1.14.4+build.15:v2",
@@ -72,6 +89,7 @@
   "1.14.4": {
     "version": "latest-1.14.4",
     "inheritsFrom": "1.14.4",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "latest-separate",
     "mappings": "1.14.4+build.1",
@@ -88,6 +106,7 @@
   "1.14.3": {
     "version": "latest-1.14.3",
     "inheritsFrom": "1.14.3",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "latest-separate",
     "mappings": "1.14.3+build.1",
@@ -104,6 +123,7 @@
   "1.14.2": {
     "version": "latest-1.14.2",
     "inheritsFrom": "1.14.2",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "latest-separate",
     "mappings": "1.14.2+build.1",
@@ -120,6 +140,7 @@
   "1.14.1": {
     "version": "latest-1.14.1",
     "inheritsFrom": "1.14.1",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "latest-separate",
     "mappings": "1.14.1+build.5",
@@ -136,6 +157,7 @@
   "1.14": {
     "version": "latest-1.14",
     "inheritsFrom": "1.14",
+    "clientVersion": "278",
     "tweaker": "",
     "subsystem": "latest-separate",
     "mappings": "1.14+build.1",
@@ -152,7 +174,7 @@
   "1.13.2": {
     "version": "latest-1.13.2",
     "inheritsFrom": "1.13.2",
-    "isUsingJVM": true,
+    "clientVersion": "278",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "me.deftware.client.framework.main.Main",
@@ -168,6 +190,7 @@
   "1.13.1": {
     "version": "latest-1.13.1",
     "inheritsFrom": "1.13.1",
+    "clientVersion": "278",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "",
@@ -183,6 +206,7 @@
   "1.13": {
     "version": "latest-1.13",
     "inheritsFrom": "1.13",
+    "clientVersion": "278",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "",
@@ -198,6 +222,7 @@
   "1.12.2": {
     "version": "latest-1.12.2",
     "inheritsFrom": "1.12.2",
+    "clientVersion": "220",
     "tweaker": "me.deftware.launch.Launcher",
     "mainClass": "",
     "subsystem": "",
