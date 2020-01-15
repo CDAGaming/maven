@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/versions.json
+!/update.json
 !/marketplace
 !/gradle
 !/me
