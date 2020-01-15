@@ -90,7 +90,7 @@
     "modloaders": [
       "Fabric"
     ]
-  }
+  },
   "1.14.3": {
     "version": "latest-1.14.3",
     "inheritsFrom": "1.14.3",
