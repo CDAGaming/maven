@@ -1,12 +1,13 @@
 {
-  "1.15.2-pre1-v2": {
+  "1.15.2-pre1": {
     "version": "13.9.5-1.15.2-pre1",
     "inheritsFrom": "1.15.2-pre1",
     "clientInherit": "1.15.1",
     "clientVersion": "278",
+    "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
-    "mappings": "1.15.2-pre1+build.1:v2",
+    "mappings": "1.15.2-pre1+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -17,13 +18,14 @@
       "Fabric"
     ]
   },
-  "1.15.1-v2": {
+  "1.15.1": {
     "version": "latest-1.15.1",
     "inheritsFrom": "1.15.1",
     "clientVersion": "278",
+    "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
-    "mappings": "1.15.1+build.1:v2",
+    "mappings": "1.15.1+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -34,13 +36,14 @@
       "Fabric"
     ]
   },
-  "1.15-v2": {
+  "1.15": {
     "version": "latest-1.15",
     "inheritsFrom": "1.15",
     "clientVersion": "278",
+    "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
-    "mappings": "1.15+build.1:v2",
+    "mappings": "1.15+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -51,32 +54,16 @@
       "Fabric"
     ]
   },
-  "1.15_combat-1-v2": {
+  "1.15_combat-1": {
     "version": "latest-1.15_combat-1",
     "inheritsFrom": "1.15_combat-1",
     "clientInherit": "1.14.4",
     "clientVersion": "278",
+    "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.1",
-    "mappings": "1.15_combat-1+build.2:v2",
+    "mappings": "1.15_combat-1+build.2",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
-  "1.14.4-v2": {
-    "version": "latest-1.14.4",
-    "inheritsFrom": "1.14.4",
-    "clientVersion": "278",
-    "tweaker": "",
-    "subsystem": "0.7.2",
-    "mappings": "1.14.4+build.15:v2",
-    "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
       "Vanilla",
@@ -90,10 +77,11 @@
     "version": "latest-1.14.4",
     "inheritsFrom": "1.14.4",
     "clientVersion": "278",
+    "dependencyTag": "-v2",
     "tweaker": "",
-    "subsystem": "latest-separate",
-    "mappings": "1.14.4+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+    "subsystem": "0.7.2",
+    "mappings": "1.14.4+build.15",
+    "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
       "Vanilla",
@@ -102,7 +90,7 @@
     "modloaders": [
       "Fabric"
     ]
-  },
+  }
   "1.14.3": {
     "version": "latest-1.14.3",
     "inheritsFrom": "1.14.3",
