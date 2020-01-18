@@ -7,6 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 const blacklist = ["subsystem", "optifabric", "gradle"];
+const blacklistVersions = ["latest-1.12.2"];
 
 function readdirSync(p, a = []) {
     if (fs.statSync(p).isDirectory()) {
@@ -61,11 +62,15 @@ latestPaths.forEach(p => {
 
 // Update the files
 latestPaths.forEach(p => {
-    let jarFile = `${p.parent}${p.latestVersion}/${p.fileName}-${p.latestVersion}.jar`, sha1 = `${jarFile}.sha1`;
-    let newJarFile =  `${p.parent}${p.lastEntry}/${p.fileName}-${p.lastEntry}.jar`, newSha1 = `${newJarFile}.sha1`;
-    fs.unlinkSync(newJarFile);
-    fs.unlinkSync(newSha1);
-    fs.copyFileSync(jarFile, newJarFile);
-    fs.copyFileSync(sha1, newSha1);
-    console.log(`Updated ${p.fileName}/${p.lastEntry} to version ${p.latestVersion}`);
+    if (!blacklistVersions.includes(p.lastEntry)) {
+        let jarFile = `${p.parent}${p.latestVersion}/${p.fileName}-${p.latestVersion}.jar`,
+            sha1 = `${jarFile}.sha1`;
+        let newJarFile = `${p.parent}${p.lastEntry}/${p.fileName}-${p.lastEntry}.jar`,
+            newSha1 = `${newJarFile}.sha1`;
+        fs.unlinkSync(newJarFile);
+        fs.unlinkSync(newSha1);
+        fs.copyFileSync(jarFile, newJarFile);
+        fs.copyFileSync(sha1, newSha1);
+        console.log(`Updated ${p.fileName}/${p.lastEntry} to version ${p.latestVersion}`);
+    }
 });
