@@ -1,13 +1,13 @@
 {
-  "1.15.2-pre1": {
-    "version": "13.9.5-1.15.2-pre1",
-    "inheritsFrom": "1.15.2-pre1",
+  "1.15.2-pre2": {
+    "version": "13.9.5-1.15.2-pre2",
+    "inheritsFrom": "1.15.2-pre2",
     "clientInherit": "1.15.1",
     "clientVersion": "278",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
-    "mappings": "1.15.2-pre1+build.1",
+    "mappings": "1.15.2-pre2+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -208,9 +208,9 @@
     ]
   },
   "1.12.2": {
-    "version": "latest-1.12.2",
+    "version": "13.9.5-1.12.2",
     "inheritsFrom": "1.12.2",
-    "clientVersion": "220",
+    "clientVersion": "278",
     "tweaker": "me.deftware.launch.Launcher",
     "mainClass": "",
     "subsystem": "",
