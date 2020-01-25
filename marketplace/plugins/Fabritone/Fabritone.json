@@ -2,6 +2,11 @@
   "fabric": {
     "fileName": "baritone-%mc%",
     "versions": {
+      "1.15.2": {
+        "url": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/1.15.1/raw/build/libs/fabritone-1.4.5.jar?job=build",
+        "version": "1.4.5",
+        "scheme": "-v2"
+      },
       "1.15.1": {
         "url": "https://gitlab.com/CDAGaming/fabritone/builds/artifacts/1.15.1/raw/build/libs/fabritone-1.4.5.jar?job=build",
         "version": "1.4.5",
@@ -26,7 +31,7 @@
   "description": [
     "Fabritone is a fork of Baritone made for Aristois. The addon lets",
     "you \"automine\", automatically get from A to B, and much more!",
-    "Currently supported versions are: 1.14.4 through 1.15.1",
+    "Currently supported versions are: 1.14.4 through 1.15.2",
     "Source at https://gitlab.com/CDAGaming/fabritone"
   ],
   "version": "4"
