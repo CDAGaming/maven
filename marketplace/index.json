@@ -1,5 +1,5 @@
 {
-  "updated": "Sat Jan 25 2020 19:58:00 GMT+0100 (Central European Standard Time)",
+  "updated": "Sat Feb 01 2020 15:14:22 GMT+0100 (Central European Standard Time)",
   "mods": [
     {
       "fabric": {
@@ -30,10 +30,10 @@
       "id": "fabric-api",
       "name": "Fabric Api",
       "author": "Fabric Team",
-      "summary": "Adds Fabric mod support for 1.14.4 through 1.15.1",
+      "summary": "Adds Fabric mod support for 1.14.4 through 1.15.2",
       "description": [
         "Adds Fabric mod support",
-        "Supported versions are 1.14.4 through 1.15.1"
+        "Supported versions are 1.14.4 through 1.15.2"
       ],
       "version": "1",
       "link": "",
@@ -68,7 +68,7 @@
       "id": "Fabritone",
       "name": "Fabritone",
       "author": "Indrit, CDAGaming",
-      "summary": "Automine bot for Aristois, fork of Baritone. Supports 1.14.4 through 1.15.1",
+      "summary": "Automine bot for Aristois, fork of Baritone. Supports 1.14.4 through 1.15.2",
       "description": [
         "Fabritone is a fork of Baritone made for Aristois. The addon lets",
         "you \"automine\", automatically get from A to B, and much more!",
