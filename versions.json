@@ -1,8 +1,8 @@
 {
   "1.15.2": {
-    "version": "latest-1.15.2",
+    "version": "13.9.5-1.15.2",
     "inheritsFrom": "1.15.2",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
@@ -18,9 +18,9 @@
     ]
   },
   "1.15.1": {
-    "version": "latest-1.15.1",
+    "version": "13.9.5-1.15.1",
     "inheritsFrom": "1.15.1",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
@@ -36,9 +36,9 @@
     ]
   },
   "1.15": {
-    "version": "latest-1.15",
+    "version": "13.9.5-1.15",
     "inheritsFrom": "1.15",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
@@ -53,15 +53,15 @@
       "Fabric"
     ]
   },
-  "1.15_combat-1": {
-    "version": "latest-1.15_combat-1",
-    "inheritsFrom": "1.15_combat-1",
-    "clientInherit": "1.14.4",
-    "clientVersion": "279",
+  "1.15_combat-6": {
+    "version": "13.9.5-1.15_combat-6",
+    "inheritsFrom": "1.15_combat-6",
+    "clientInherit": "1.15.1",
+    "clientVersion": "280",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.1",
-    "mappings": "1.15_combat-1+build.2",
+    "mappings": "1.15_combat-6+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
     "launchers": [
@@ -73,9 +73,9 @@
     ]
   },
   "1.14.4": {
-    "version": "latest-1.14.4",
+    "version": "13.9.5-1.14.4",
     "inheritsFrom": "1.14.4",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
@@ -91,11 +91,11 @@
     ]
   },
   "1.14.3": {
-    "version": "latest-1.14.3",
+    "version": "13.9.5-1.14.3",
     "inheritsFrom": "1.14.3",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "",
-    "subsystem": "latest-separate",
+    "subsystem": "13.9.5-separate",
     "mappings": "1.14.3+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -108,11 +108,11 @@
     ]
   },
   "1.14.2": {
-    "version": "latest-1.14.2",
+    "version": "13.9.5-1.14.2",
     "inheritsFrom": "1.14.2",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "",
-    "subsystem": "latest-separate",
+    "subsystem": "13.9.5-separate",
     "mappings": "1.14.2+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -125,11 +125,11 @@
     ]
   },
   "1.14.1": {
-    "version": "latest-1.14.1",
+    "version": "13.9.5-1.14.1",
     "inheritsFrom": "1.14.1",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "",
-    "subsystem": "latest-separate",
+    "subsystem": "13.9.5-separate",
     "mappings": "1.14.1+build.5",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -142,11 +142,11 @@
     ]
   },
   "1.14": {
-    "version": "latest-1.14",
+    "version": "13.9.5-1.14",
     "inheritsFrom": "1.14",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "",
-    "subsystem": "latest-separate",
+    "subsystem": "13.9.5-separate",
     "mappings": "1.14+build.1",
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
     "extraLibs": {},
@@ -159,9 +159,9 @@
     ]
   },
   "1.13.2": {
-    "version": "latest-1.13.2",
+    "version": "13.9.5-1.13.2",
     "inheritsFrom": "1.13.2",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "me.deftware.client.framework.main.Main",
@@ -175,9 +175,9 @@
     ]
   },
   "1.13.1": {
-    "version": "latest-1.13.1",
+    "version": "13.9.5-1.13.1",
     "inheritsFrom": "1.13.1",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "",
@@ -191,9 +191,9 @@
     ]
   },
   "1.13": {
-    "version": "latest-1.13",
+    "version": "13.9.5-1.13",
     "inheritsFrom": "1.13",
-    "clientVersion": "279",
+    "clientVersion": "280",
     "tweaker": "me.deftware.launch.Launcher",
     "subsystem": "",
     "mainClass": "",
@@ -209,7 +209,135 @@
   "1.12.2": {
     "version": "13.9.5-1.12.2",
     "inheritsFrom": "1.12.2",
-    "clientVersion": "279",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.12.1": {
+    "version": "13.9.5-1.12.1",
+    "inheritsFrom": "1.12.1",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.12": {
+    "version": "13.9.5-1.12",
+    "inheritsFrom": "1.12",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.11.2": {
+    "version": "13.9.5-1.11.2",
+    "inheritsFrom": "1.11.2",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.11": {
+    "version": "13.9.5-1.11",
+    "inheritsFrom": "1.11",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.10.2": {
+    "version": "13.9.5-1.10.2",
+    "inheritsFrom": "1.10.2",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.9.4": {
+    "version": "13.9.5-1.9.4",
+    "inheritsFrom": "1.9.4",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.9": {
+    "version": "13.9.5-1.9",
+    "inheritsFrom": "1.9",
+    "clientVersion": "280",
+    "tweaker": "me.deftware.launch.Launcher",
+    "mainClass": "",
+    "subsystem": "",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Forge"
+    ]
+  },
+  "1.8.9": {
+    "version": "13.9.5-1.8.9",
+    "inheritsFrom": "1.8.9",
+    "clientVersion": "280",
     "tweaker": "me.deftware.launch.Launcher",
     "mainClass": "",
     "subsystem": "",
