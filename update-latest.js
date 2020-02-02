@@ -67,10 +67,22 @@ latestPaths.forEach(p => {
             sha1 = `${jarFile}.sha1`;
         let newJarFile = `${p.parent}${p.lastEntry}/${p.fileName}-${p.lastEntry}.jar`,
             newSha1 = `${newJarFile}.sha1`;
-        fs.unlinkSync(newJarFile);
-        fs.unlinkSync(newSha1);
+        let pomFile = `${p.parent}${p.latestVersion}/${p.fileName}-${p.latestVersion}.pom`,
+            newPomFile = `${p.parent}${p.lastEntry}/${p.fileName}-${p.lastEntry}.pom`;
+        if (!fs.existsSync(newPomFile) && fs.existsSync(pomFile)) {
+            let data = fs.readFileSync(pomFile).toString().replace(p.latestVersion, p.lastEntry);
+            fs.writeFileSync(newPomFile, data);
+        }
+        if (fs.existsSync(newJarFile)) {
+            fs.unlinkSync(newJarFile);
+        }
+        if (fs.existsSync(newSha1)) {
+            fs.unlinkSync(newSha1);
+        }
         fs.copyFileSync(jarFile, newJarFile);
-        fs.copyFileSync(sha1, newSha1);
+        if (fs.existsSync(sha1)) {
+            fs.copyFileSync(sha1, newSha1);
+        }
         console.log(`Updated ${p.fileName}/${p.lastEntry} to version ${p.latestVersion}`);
     }
 });
